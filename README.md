@@ -1,4 +1,4 @@
-#Bamazon:
+Bamazon:
 
 
 Bamazon is an interactive shopping node app where MySQL and Node.JS are used to allow users to purchase items, view, track and update the products in the inventory.
