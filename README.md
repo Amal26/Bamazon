@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bamazon
 
 
@@ -7,3 +8,7 @@
 
 ![GitHub Logo](/images/screenshot1.png)
 ![GitHub Logo](/images/screenshot(3).png)
+=======
+
+
+>>>>>>> 21102acc882d0fd020fca8d9c80875a820bcaf5f
